@@ -1,6 +1,6 @@
 # bikeshare
 
-Bikeshare is a simple CDSW project designed to demonstrate two features of CDSW 1.4: Experiments and Models.
+Bikeshare is a simple CDSW project designed to demonstrate two features of CDSW: Experiments and Models.
 
 ## Demo outline
 
